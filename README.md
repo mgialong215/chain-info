@@ -2,7 +2,8 @@
 
 Genesis and peering info archive 
 
-## (Cosmos-Snapshot)[https://snapshot.notional.ventures/]
+## Cosmos-Snapshot
+*https://snapshot.notional.ventures/*
 - Cosmoshub
 - Osmosis
 - Juno
