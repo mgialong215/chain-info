@@ -2,6 +2,30 @@
 
 Genesis and peering info archive 
 
-This will save interns' time to set up nodes
-
-Let's go infra bois
+## (Cosmos-Snapshot)[https://snapshot.notional.ventures/]
+- Cosmoshub
+- Osmosis
+- Juno
+- Starname
+- Regen
+- Akash
+- Sentinel
+- E-money
+- Terra
+- Ixo
+- Sifchain
+- Likecoin
+- Kichain
+- Cyber
+- Cheqd
+- Stargaze
+- Band
+- Chihuahua
+- Kava
+- Bitcanna
+- Konstellation
+- Omniflixhub
+- Vidulum
+- Provenance
+- Dig
+- Gravity bridge
