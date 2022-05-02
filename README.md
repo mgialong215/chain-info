@@ -31,3 +31,8 @@ Genesis and peering info archive
 - Dig
 - Gravity bridge
 - Comdex
+- Cerberus
+- Bitsong
+- Assetmantle
+- Fetchhub
+- Evmos
